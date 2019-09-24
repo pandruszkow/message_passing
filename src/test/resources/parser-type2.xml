@@ -1,0 +1,8 @@
+<message>
+    <sale>
+        <itemId>apple</itemId>
+        <itemUnitPrice>0.2</itemUnitPrice>
+        <itemUnitCurrency>GBP</itemUnitCurrency>
+    </sale>
+    <numberOfSales>20</numberOfSales>
+</message>
